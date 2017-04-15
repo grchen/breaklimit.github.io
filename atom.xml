@@ -1,35 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>突破极限</title>
+  <subtitle>Break Your Limit! Body and Mental!</subtitle>
+  <link href="/atom.xml" rel="self"/>
   
+  <link href="http://breaklimit.me/"/>
+  <updated>2017-04-15T04:20:26.235Z</updated>
+  <id>http://breaklimit.me/</id>
+  
+  <author>
+    <name>John Doe</name>
     
-    <entry>
-      <title><![CDATA[Mac OSX虚拟化技术（2）- 其他商业化技术介绍]]></title>
-      <url>/2017/04/14/mac-osx-vm-2/</url>
-      <content type="html"><![CDATA[<h2 id="VirtualBox-for-Mac介绍"><a href="#VirtualBox-for-Mac介绍" class="headerlink" title="VirtualBox for Mac介绍"></a>VirtualBox for Mac介绍</h2><h2 id="Parallels-Desktop介绍"><a href="#Parallels-Desktop介绍" class="headerlink" title="Parallels Desktop介绍"></a>Parallels Desktop介绍</h2><h2 id="Vmware-fusion介绍"><a href="#Vmware-fusion介绍" class="headerlink" title="Vmware fusion介绍"></a>Vmware fusion介绍</h2><h2 id="Qemu介绍"><a href="#Qemu介绍" class="headerlink" title="Qemu介绍"></a>Qemu介绍</h2><h2 id="bochs介绍"><a href="#bochs介绍" class="headerlink" title="bochs介绍"></a>bochs介绍</h2><h2 id="valgrind介绍"><a href="#valgrind介绍" class="headerlink" title="valgrind介绍"></a>valgrind介绍</h2>]]></content>
-      
-        <categories>
-            
-            <category> 技术 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 内核 </tag>
-            
-            <tag> 虚拟化 </tag>
-            
-            <tag> MacOSX </tag>
-            
-        </tags>
-        
-    </entry>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac OSX虚拟化技术（2）- 其他商业化技术介绍</title>
+    <link href="http://breaklimit.me/2017/04/14/mac-osx-vm-2/"/>
+    <id>http://breaklimit.me/2017/04/14/mac-osx-vm-2/</id>
+    <published>2017-04-14T20:10:58.000Z</published>
+    <updated>2017-04-15T04:20:26.235Z</updated>
     
-    <entry>
-      <title><![CDATA[Hexo和markdown相关内容收集]]></title>
-      <url>/2017/04/14/hexo-blog-write/</url>
-      <content type="html"><![CDATA[<p>为了遗忘和查询，收集一些markdown和hexo相关的连接地址，方便查询和浏览。</p>
+    <content type="html"><![CDATA[<h2 id="VirtualBox-for-Mac介绍"><a href="#VirtualBox-for-Mac介绍" class="headerlink" title="VirtualBox for Mac介绍"></a>VirtualBox for Mac介绍</h2><h2 id="Parallels-Desktop介绍"><a href="#Parallels-Desktop介绍" class="headerlink" title="Parallels Desktop介绍"></a>Parallels Desktop介绍</h2><h2 id="Vmware-fusion介绍"><a href="#Vmware-fusion介绍" class="headerlink" title="Vmware fusion介绍"></a>Vmware fusion介绍</h2><h2 id="Qemu介绍"><a href="#Qemu介绍" class="headerlink" title="Qemu介绍"></a>Qemu介绍</h2><h2 id="bochs介绍"><a href="#bochs介绍" class="headerlink" title="bochs介绍"></a>bochs介绍</h2><h2 id="valgrind介绍"><a href="#valgrind介绍" class="headerlink" title="valgrind介绍"></a>valgrind介绍</h2>]]></content>
+    
+    <summary type="html">
+    
+      Mac OSX虚拟化技术 - 老牌3大商业化产品介绍，介绍下virtual box，Parralle Desktop 和 Vmware fusion等老牌的虚拟化产品，占坑，资料待补充，另外Qemu，bochs，valgrind等也是可用的技术，有一些特色，程序员可用。
+    
+    </summary>
+    
+      <category term="技术" scheme="http://breaklimit.me/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="内核" scheme="http://breaklimit.me/tags/%E5%86%85%E6%A0%B8/"/>
+    
+      <category term="虚拟化" scheme="http://breaklimit.me/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
+    
+      <category term="MacOSX" scheme="http://breaklimit.me/tags/MacOSX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo和markdown相关内容收集</title>
+    <link href="http://breaklimit.me/2017/04/14/hexo-blog-write/"/>
+    <id>http://breaklimit.me/2017/04/14/hexo-blog-write/</id>
+    <published>2017-04-14T16:49:47.000Z</published>
+    <updated>2017-04-15T05:12:25.190Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了遗忘和查询，收集一些markdown和hexo相关的连接地址，方便查询和浏览。</p>
 <h3 id="Hexo-Markdown-简明语法手册"><a href="#Hexo-Markdown-简明语法手册" class="headerlink" title="Hexo Markdown 简明语法手册"></a>Hexo Markdown 简明语法手册</h3>
 <p><a href="https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C/" title="Hexo Markdown 简明语法手册" target="_blank" rel="external">https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-简明语法手册/</a></p>
 <h3 id="Markdown-简单的世界"><a href="#Markdown-简单的世界" class="headerlink" title="Markdown - 简单的世界"></a>Markdown - 简单的世界</h3><p> <a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" title="Markdown - 简单的世界" target="_blank" rel="external">https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details</a></p>
@@ -39,28 +58,30 @@
 <h3 id="hexo高级用法"><a href="#hexo高级用法" class="headerlink" title="hexo高级用法"></a>hexo高级用法</h3><p><a href="http://suibobuzhuliu.github.io/2016/05/22/hexo高级用法/" target="_blank" rel="external">http://suibobuzhuliu.github.io/2016/05/22/hexo高级用法/</a></p>
 <h3 id="Hexo插件安装"><a href="#Hexo插件安装" class="headerlink" title="Hexo插件安装"></a>Hexo插件安装</h3><p><a href="https://luuman.github.io/2015/12/27/Hexo/HexoPlug/" target="_blank" rel="external">https://luuman.github.io/2015/12/27/Hexo/HexoPlug/</a></p>
 ]]></content>
-      
-        <categories>
-            
-            <category> 备忘录 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> blog </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[Mac OSX虚拟化技术（1） - xhyve相关介绍]]></title>
-      <url>/2017/04/14/mac-osx-vm-1/</url>
-      <content type="html"><![CDATA[<h2 id="MacOSX操作系统介绍"><a href="#MacOSX操作系统介绍" class="headerlink" title="MacOSX操作系统介绍"></a>MacOSX操作系统介绍</h2><img src="/2017/04/14/mac-osx-vm-1/Diagram_of_Mac_OS_X_architecture.svg" alt="OS X 体系结构图解" title="OS X 体系结构图解">
+    <summary type="html">
+    
+      为了遗忘和查询，收集一些markdown和hexo相关的连接地址，方便查询和浏览。
+    
+    </summary>
+    
+      <category term="备忘录" scheme="http://breaklimit.me/categories/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+    
+      <category term="Markdown" scheme="http://breaklimit.me/tags/Markdown/"/>
+    
+      <category term="blog" scheme="http://breaklimit.me/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac OSX虚拟化技术（1） - xhyve相关介绍</title>
+    <link href="http://breaklimit.me/2017/04/14/mac-osx-vm-1/"/>
+    <id>http://breaklimit.me/2017/04/14/mac-osx-vm-1/</id>
+    <published>2017-04-14T16:37:12.000Z</published>
+    <updated>2017-04-15T04:27:10.135Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="MacOSX操作系统介绍"><a href="#MacOSX操作系统介绍" class="headerlink" title="MacOSX操作系统介绍"></a>MacOSX操作系统介绍</h2><img src="/2017/04/14/mac-osx-vm-1/Diagram_of_Mac_OS_X_architecture.svg" alt="OS X 体系结构图解" title="OS X 体系结构图解">
 <p>OS X 是苹果公司 Mac OS 操作系统替代品的产物。 在多次失败的尝试之后，苹果于1994年启动了 Pink 项目（后来和 IBM 进行了合作），这就是 Taligent 和 Copland ，两年后这一项目取消。<br>通过收购获得了 NeXT 和其 NeXTSTEP 操作系统之后，苹果公司开始着手开发他们最新的操作系统 (Mac OS X)  OS X 首次出现是1999年的 OS X Server 1.0，第一个正式的 OS X 桌面版本发布于2001年3月24日。 从10.5版本开始，OS X 通过了 Open group Unix O3 单一 Unix 规范认证。<br>2016年6月，苹果公司宣布OS X更名为macOS，以便与苹果其他操作系统如iOS、watchOS和tvOS保持统一的命名风格。<br>Mac OS X 包含两个主要的部分：以FreeBSD源代码和Mach微核心为基础的 XNU 混合内核，并在 XNU 上构建的 Darwin 核心系统；及一个由苹果开发，称为 Aqua 的闭源、独占版权的图形用户界面。 细分的看，Mac OS X 系统可以分成五层结构，每一层有其代表性的技术。<br><a href="https://zh.wikipedia.org/wiki/MacOS結構" target="_blank" rel="external">https://zh.wikipedia.org/wiki/MacOS結構</a></p>
 <h2 id="MacOSX虚拟化技术介绍"><a href="#MacOSX虚拟化技术介绍" class="headerlink" title="MacOSX虚拟化技术介绍"></a>MacOSX虚拟化技术介绍</h2><ol>
 <li>从硬件角度来说，macOS的虚拟化也是Intel VT的技术实现，和windows下以及linux下没有本质区别。在10.10 (Yosemite)版本之前的虚拟化产品，都是通过自己来写内核扩展kernel extension (KEXT)来实现的，比如说Parralle Desktop和VMWare Fusion等产品。但是因为MacOS的内核很多代码并没有开放，对应第三方实现的虚拟化平台会存在性能以及兼容性等问题，没有Linux平台上的KVM／Xen等虚拟化平台使用起来顺畅。</li>
@@ -94,30 +115,32 @@
 <p>镜像大小问题的一些解决方法参考：<br><a href="https://forums.docker.com/t/consistently-out-of-disk-space-in-docker-beta/9438/9" target="_blank" rel="external">https://forums.docker.com/t/consistently-out-of-disk-space-in-docker-beta/9438/9</a></p>
 <h2 id="参考连接"><a href="#参考连接" class="headerlink" title="参考连接"></a>参考连接</h2><p><a href="http://www.jianshu.com/p/f0f50d471312" target="_blank" rel="external">http://www.jianshu.com/p/f0f50d471312</a><br><a href="https://veertu.com/uncovering-os-x-hypervisor-framework/" target="_blank" rel="external">https://veertu.com/uncovering-os-x-hypervisor-framework/</a></p>
 ]]></content>
-      
-        <categories>
-            
-            <category> 技术 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 内核 </tag>
-            
-            <tag> 虚拟化 </tag>
-            
-            <tag> MacOSX </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[李小龙的哲学思想]]></title>
-      <url>/2017/04/13/bruce-lee-thinking/</url>
-      <content type="html"><![CDATA[<h3 id="李小龙"><a href="#李小龙" class="headerlink" title="李小龙"></a>李小龙</h3><p>李小龙在西方受到广泛尊崇的重要原因，是他不仅有高超的武术功力还拥有武术的哲学精神。现在世界上仍然有许多以李小龙为宗师的会馆，他们一般遵循李的武学思想，把练功夫分为三个层次，一是思想，二是功夫知识，三才是技巧。有思想的拳头造就他的不凡。</p>
+    <summary type="html">
+    
+      Mac OSX虚拟化技术 - xhyve相关介绍，本篇纪录下前段时间自己折腾xhyve的一些纪录，可能对大家有点帮助。后面再搜集介绍下virtual box，Parralle Desktop 和 Vmware fusion等老牌的虚拟化产品。
+    
+    </summary>
+    
+      <category term="技术" scheme="http://breaklimit.me/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="内核" scheme="http://breaklimit.me/tags/%E5%86%85%E6%A0%B8/"/>
+    
+      <category term="虚拟化" scheme="http://breaklimit.me/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
+    
+      <category term="MacOSX" scheme="http://breaklimit.me/tags/MacOSX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>李小龙的哲学思想</title>
+    <link href="http://breaklimit.me/2017/04/13/bruce-lee-thinking/"/>
+    <id>http://breaklimit.me/2017/04/13/bruce-lee-thinking/</id>
+    <published>2017-04-13T14:06:49.000Z</published>
+    <updated>2017-04-15T04:19:34.541Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="李小龙"><a href="#李小龙" class="headerlink" title="李小龙"></a>李小龙</h3><p>李小龙在西方受到广泛尊崇的重要原因，是他不仅有高超的武术功力还拥有武术的哲学精神。现在世界上仍然有许多以李小龙为宗师的会馆，他们一般遵循李的武学思想，把练功夫分为三个层次，一是思想，二是功夫知识，三才是技巧。有思想的拳头造就他的不凡。</p>
 <h3 id="李小龙语录"><a href="#李小龙语录" class="headerlink" title="李小龙语录"></a>李小龙语录</h3><p>　　——总是有人跑来问我：“李振藩——你真的有那么厉害吗？”，我说：“噢，如果我告诉你我很厉害，也许你会说我在吹牛。但是如果我告诉你我并不厉害，你肯定知道我在撒谎。”</p>
 <p>　　——敌不动，我不动。敌欲动，我先动。</p>
 <p>　　——尽其在我，简单是美。</p>
@@ -141,22 +164,18 @@
 <p>　　——让你的思维如水一般没有束缚，招式变幻的伟大可以在水中得到启迪。</p>
 <p>　　世界上最柔的东西莫过于水，然而它却能够穿透最为坚硬的东西，可以存在于任何空间，没有什么能够超越它，例如滴水穿石，这就是“柔德”所在，所以说弱能胜强，柔可克刚。</p>
 ]]></content>
-      
-        <categories>
-            
-            <category> 李小龙 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 李小龙 </tag>
-            
-        </tags>
-        
-    </entry>
     
+    <summary type="html">
+    
+      李小龙不但是个演员，武术家，更是一个哲学家。。。
+    
+    </summary>
+    
+      <category term="李小龙" scheme="http://breaklimit.me/categories/%E6%9D%8E%E5%B0%8F%E9%BE%99/"/>
+    
+    
+      <category term="李小龙" scheme="http://breaklimit.me/tags/%E6%9D%8E%E5%B0%8F%E9%BE%99/"/>
+    
+  </entry>
   
-  
-</search>
+</feed>

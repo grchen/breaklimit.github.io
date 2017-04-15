@@ -3,12 +3,37 @@
   
     
     <entry>
+      <title><![CDATA[Mac OSX虚拟化技术（2）- 其他商业化技术介绍]]></title>
+      <url>/2017/04/14/mac-osx-vm-2/</url>
+      <content type="html"><![CDATA[<h2 id="VirtualBox-for-Mac介绍"><a href="#VirtualBox-for-Mac介绍" class="headerlink" title="VirtualBox for Mac介绍"></a>VirtualBox for Mac介绍</h2><h2 id="Parallels-Desktop介绍"><a href="#Parallels-Desktop介绍" class="headerlink" title="Parallels Desktop介绍"></a>Parallels Desktop介绍</h2><h2 id="Vmware-fusion介绍"><a href="#Vmware-fusion介绍" class="headerlink" title="Vmware fusion介绍"></a>Vmware fusion介绍</h2><h2 id="Qemu介绍"><a href="#Qemu介绍" class="headerlink" title="Qemu介绍"></a>Qemu介绍</h2><h2 id="bochs介绍"><a href="#bochs介绍" class="headerlink" title="bochs介绍"></a>bochs介绍</h2><h2 id="valgrind介绍"><a href="#valgrind介绍" class="headerlink" title="valgrind介绍"></a>valgrind介绍</h2>]]></content>
+      
+        <categories>
+            
+            <category> 技术 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 内核 </tag>
+            
+            <tag> 虚拟化 </tag>
+            
+            <tag> MacOSX </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hexo和markdown相关内容收集]]></title>
       <url>/2017/04/14/hexo-blog-write/</url>
       <content type="html"><![CDATA[<p>为了遗忘和查询，收集一些markdown和hexo相关的连接地址，方便查询和浏览。</p>
-<h3 id="1-Hexo-Markdown-简明语法手册"><a href="#1-Hexo-Markdown-简明语法手册" class="headerlink" title="1. Hexo Markdown 简明语法手册"></a>1. Hexo Markdown 简明语法手册</h3><p><a href="https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C/" title="Hexo Markdown 简明语法手册" target="_blank" rel="external">https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-简明语法手册/</a></p>
-<h3 id="2-Markdown-简单的世界"><a href="#2-Markdown-简单的世界" class="headerlink" title="2. Markdown - 简单的世界"></a>2. Markdown - 简单的世界</h3><p> <a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" title="Markdown - 简单的世界" target="_blank" rel="external">https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details</a></p>
-<h3 id="3-xxx"><a href="#3-xxx" class="headerlink" title="3. xxx"></a>3. xxx</h3><p><img src="/images/google_2015_logo_detail.png" alt="logo" title="google logo"></p>
+<h3 id="Hexo-Markdown-简明语法手册"><a href="#Hexo-Markdown-简明语法手册" class="headerlink" title="Hexo Markdown 简明语法手册"></a>Hexo Markdown 简明语法手册</h3>
+<p><a href="https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C/" title="Hexo Markdown 简明语法手册" target="_blank" rel="external">https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-简明语法手册/</a></p>
+<h3 id="Markdown-简单的世界"><a href="#Markdown-简单的世界" class="headerlink" title="Markdown - 简单的世界"></a>Markdown - 简单的世界</h3><p> <a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" title="Markdown - 简单的世界" target="_blank" rel="external">https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details</a></p>
+<h3 id="Hexo中文文档和API"><a href="#Hexo中文文档和API" class="headerlink" title="Hexo中文文档和API"></a>Hexo中文文档和API</h3><p><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">https://hexo.io/zh-cn/docs/</a></p>
 ]]></content>
       
         <categories>
@@ -20,7 +45,7 @@
         
         <tags>
             
-            <tag> markdown </tag>
+            <tag> Markdown </tag>
             
             <tag> blog </tag>
             
@@ -29,10 +54,41 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Mac OSX虚拟化技术 - 几种技术介绍]]></title>
+      <title><![CDATA[Mac OSX虚拟化技术（1） - xhyve相关介绍]]></title>
       <url>/2017/04/14/mac-osx-vm-1/</url>
-      <content type="html"><![CDATA[<h2 id="MacOSX操作系统介绍"><a href="#MacOSX操作系统介绍" class="headerlink" title="MacOSX操作系统介绍"></a>MacOSX操作系统介绍</h2><h2 id="MacOSX虚拟化技术介绍"><a href="#MacOSX虚拟化技术介绍" class="headerlink" title="MacOSX虚拟化技术介绍"></a>MacOSX虚拟化技术介绍</h2><h2 id="几种虚拟化技术"><a href="#几种虚拟化技术" class="headerlink" title="几种虚拟化技术"></a>几种虚拟化技术</h2><p>xxx</p>
-<h2 id="参考连接"><a href="#参考连接" class="headerlink" title="参考连接"></a>参考连接</h2><p>xxx</p>
+      <content type="html"><![CDATA[<h2 id="MacOSX操作系统介绍"><a href="#MacOSX操作系统介绍" class="headerlink" title="MacOSX操作系统介绍"></a>MacOSX操作系统介绍</h2><img src="/2017/04/14/mac-osx-vm-1/Diagram_of_Mac_OS_X_architecture.svg" alt="OS X 体系结构图解" title="OS X 体系结构图解">
+<p>OS X 是苹果公司 Mac OS 操作系统替代品的产物。 在多次失败的尝试之后，苹果于1994年启动了 Pink 项目（后来和 IBM 进行了合作），这就是 Taligent 和 Copland ，两年后这一项目取消。<br>通过收购获得了 NeXT 和其 NeXTSTEP 操作系统之后，苹果公司开始着手开发他们最新的操作系统 (Mac OS X)  OS X 首次出现是1999年的 OS X Server 1.0，第一个正式的 OS X 桌面版本发布于2001年3月24日。 从10.5版本开始，OS X 通过了 Open group Unix O3 单一 Unix 规范认证。<br>2016年6月，苹果公司宣布OS X更名为macOS，以便与苹果其他操作系统如iOS、watchOS和tvOS保持统一的命名风格。<br>Mac OS X 包含两个主要的部分：以FreeBSD源代码和Mach微核心为基础的 XNU 混合内核，并在 XNU 上构建的 Darwin 核心系统；及一个由苹果开发，称为 Aqua 的闭源、独占版权的图形用户界面。 细分的看，Mac OS X 系统可以分成五层结构，每一层有其代表性的技术。<br><a href="https://zh.wikipedia.org/wiki/MacOS%E7%B5%90%E6%A7%8B" target="_blank" rel="external">https://zh.wikipedia.org/wiki/MacOS%E7%B5%90%E6%A7%8B</a></p>
+<h2 id="MacOSX虚拟化技术介绍"><a href="#MacOSX虚拟化技术介绍" class="headerlink" title="MacOSX虚拟化技术介绍"></a>MacOSX虚拟化技术介绍</h2><ol>
+<li>从硬件角度来说，macOS的虚拟化也是Intel VT的技术实现，和windows下以及linux下没有本质区别。在10.10 (Yosemite)版本之前的虚拟化产品，都是通过自己来写内核扩展kernel extension (KEXT)来实现的，比如说Parralle Desktop和VMWare Fusion等产品。但是因为MacOS的内核很多代码并没有开放，对应第三方实现的虚拟化平台会存在性能以及兼容性等问题，没有Linux平台上的KVM／Xen等虚拟化平台使用起来顺畅。</li>
+<li>MacOS从10.10 (Yosemite)版本开始，引入Hypervisor.Framework，从内核方面把虚拟化的功能进行封装，对用户来说，只需要在这个基础上进行二次开发，可以在用户态的层面使用虚拟化技术。所有后来就有了xhyve，一个轻量化的用户态的虚拟化框架。</li>
+<li>从这个角度来说，当前MacOS的虚拟化存在两种形式，一种是直接通过实现内核KEXT来实现的虚拟化技术，另外一种就是使用Hypervisor.Framework的虚拟化技术，当前比较热门的Docker for mac以及Veertu Desktop等产品都是用的后面一种，宣称是Native的虚拟化技术，性能好，兼容性好，使用方便，不会对MacOS本身造成破坏（因为是用户态的），下面会具体介绍。主要介绍新的Hypervisor.Framework技术。</li>
+</ol>
+<h2 id="几种虚拟化技术"><a href="#几种虚拟化技术" class="headerlink" title="几种虚拟化技术"></a>几种虚拟化技术</h2><h3 id="Hypervisor-Framework"><a href="#Hypervisor-Framework" class="headerlink" title="Hypervisor.Framework"></a>Hypervisor.Framework</h3><img src="/2017/04/14/mac-osx-vm-1/Hypervisor.framework.png" alt="VM生命周期图" title="VM生命周期图">
+<p>这里是官方的介绍文档<br><a href="https://developer.apple.com/reference/hypervisor" target="_blank" rel="external">https://developer.apple.com/reference/hypervisor</a></p>
+<p>有一篇Veertu写的一篇具体流程的文章<br><a href="https://veertu.com/uncovering-os-x-hypervisor-framework/" target="_blank" rel="external">https://veertu.com/uncovering-os-x-hypervisor-framework/</a></p>
+<p>还有一篇写怎么利用这个技术来实现一个dos模拟器：<br><a href="http://www.pagetable.com/?p=764" target="_blank" rel="external">http://www.pagetable.com/?p=764</a></p>
+<h3 id="xhyve-Hypervisor-Framework的具体实现"><a href="#xhyve-Hypervisor-Framework的具体实现" class="headerlink" title="xhyve - Hypervisor.Framework的具体实现"></a>xhyve - Hypervisor.Framework的具体实现</h3><p>xhyve是一个Hypervisor.Framework的具体实现，是从FreeBSD的bhyve移植过来的。FreeBSD 下的虚拟技术 bhyve (The BSD Hypervisor) 是2014年1月份正式发布的，包含在了 FreeBSD 10.0 发行版中。 xhyve 是基于 bhyve 的 Mac OS X 移植版本。xhyve 超级小，只有 230 KB，不依赖其他软件或库。有兴趣大家可以玩一玩。</p>
+<p>几篇介绍的文章：<br><a href="http://www.pagetable.com/?p=831" target="_blank" rel="external">http://www.pagetable.com/?p=831</a><br><a href="http://www.vpsee.com/2015/06/mac-os-x-hypervisor-xhyve-based-on-bhyve/" target="_blank" rel="external">http://www.vpsee.com/2015/06/mac-os-x-hypervisor-xhyve-based-on-bhyve/</a><br>上面的例子使用的是Ubuntu系统，本人按照对应的方法将Arch和Gentoo对应安装和运行玩了一遍。安装的时候采用CD启动，完成后需要修改sh脚本采用HD启动，具体的参数上面的文档种有详细说明。也可以参考github的具体描述：<br><a href="https://github.com/mist64/xhyve" target="_blank" rel="external">https://github.com/mist64/xhyve</a><br>在工程对应test目录下有几个例子可以参考。</p>
+<p>arch的安装和运行参考：<br><a href="https://gist.github.com/lloeki/998675988a96ef286e0a" target="_blank" rel="external">https://gist.github.com/lloeki/998675988a96ef286e0a</a></p>
+<p>freebsd的安装和运行：<br><a href="https://gist.github.com/tanb/f8fefa22332edc7a641d" target="_blank" rel="external">https://gist.github.com/tanb/f8fefa22332edc7a641d</a><br><a href="https://gist.github.com/tanb/339f2ffb59281812d766" target="_blank" rel="external">https://gist.github.com/tanb/339f2ffb59281812d766</a></p>
+<p>gentoo的安装和运行：<br><a href="https://github.com/mofm/xhyve/tree/master/gentoo" target="_blank" rel="external">https://github.com/mofm/xhyve/tree/master/gentoo</a><br>（该github还有其他几个操作操作系统镜像具体运行脚本）</p>
+<p>coreos的安装和运行：<br><a href="https://coreos.com/blog/coreos-and-xhyve-tech-preview.html" target="_blank" rel="external">https://coreos.com/blog/coreos-and-xhyve-tech-preview.html</a></p>
+<p><em>说明：</em> 初步安装问题不大，但是如果要升级内核，基本上都很复杂。需要在操作系统内将内核升级完毕后，在将内核文件和内核对应的ramdisk文件copy出来，替换以前的老版本。但是这样可能会启动不起来， 需要自己的编译内核以及调整启动参数，使内核对应驱动能够加载，还是非常麻烦的。本人在arch系统下升级内核成功，在gentoo上多次崩溃，后来使用veertu后，没有再继续探索下去。</p>
+<p><em>优缺点：</em> 优点是启动快，基本系统完备，可以替代其他商业虚拟机软件。缺点一个是需要本身对操作系统等有深入的了解，需要动手能力强的人来使用。另外镜像只支持RAW格式，内核升级比较麻烦。</p>
+<h4 id="xhyve和主机通讯的几种方法："><a href="#xhyve和主机通讯的几种方法：" class="headerlink" title="xhyve和主机通讯的几种方法："></a>xhyve和主机通讯的几种方法：</h4><p>A. 使用linux的nc命令，上面的几个使用文档种有介绍<br>B. 使用nfs<br><a href="http://hxzqlh.com/2016/05/20/NFS-%E8%AE%A9-Mac-OS-X-%E5%92%8C-Linux-%E6%89%8B%E7%89%B5%E6%89%8B/" target="_blank" rel="external">http://hxzqlh.com/2016/05/20/NFS-%E8%AE%A9-Mac-OS-X-%E5%92%8C-Linux-%E6%89%8B%E7%89%B5%E6%89%8B/</a><br>C. 使用samba：该方式已经比较成熟，不详细介绍<br>D. 使用sftp：搭建ssh服务器，在host上使用sftp连接上虚拟机，然后进行文件上传和下载。比如Atom编辑器通过Remote FTP插件可以完美的实现远程环境的编码和运行，参见：<a href="http://www.jianshu.com/p/da8951db17ca" target="_blank" rel="external">http://www.jianshu.com/p/da8951db17ca</a><br>本博客就是在MacOS上，用Atom连接到veertu上的arch虚拟机下写作的。在MacOS上写作，hexo的运行在veertu的arch虚拟机上（具体原因是因为MacOS上安装hexo总是报错，不想继续折腾这个事情，所以用虚拟机代替了）</p>
+<h3 id="xhyve增强-veertu-desktop"><a href="#xhyve增强-veertu-desktop" class="headerlink" title="xhyve增强 - veertu desktop"></a>xhyve增强 - veertu desktop</h3><p>本人使用xhyve后，发现还是有很大限制，操作起来比较繁琐（安装，升级操作系统），所以有找了以下，发现veertu desktop，是我需要的最佳选择。</p>
+<img src="/2017/04/14/mac-osx-vm-1/hp-banner.png" alt="Veertu desktop" title="Veertu desktop">
+<p>网站：<a href="https://veertu.com/" target="_blank" rel="external">https://veertu.com/</a><br>对应的技术介绍：<a href="https://veertu.com/technology/" target="_blank" rel="external">https://veertu.com/technology/</a><br>相关的文章：<a href="https://veertu.com/knowledge-base/" target="_blank" rel="external">https://veertu.com/knowledge-base/</a><br>使用报告：<br><a href="http://www.waerfa.com/veertu-the-first-os-x-navie-virtualization-tools" target="_blank" rel="external">http://www.waerfa.com/veertu-the-first-os-x-navie-virtualization-tools</a><br>说明：由于AppStore的原因，veertu已经可以从网站免费下载，不再需要解锁的费用。</p>
+<h3 id="Docker-for-Mac-已经切换使用xhyve"><a href="#Docker-for-Mac-已经切换使用xhyve" class="headerlink" title="Docker for Mac - 已经切换使用xhyve"></a>Docker for Mac - 已经切换使用xhyve</h3><p>Docker是一种轻量化的虚拟化技术，在linux上内核原生支持，在windows上和MacOS上一般都是通过虚拟机技术来实现的。xhyve出现以后，Docker for Mac也从virtual box（Boot2Docker镜像）的虚拟机切换到xhyve虚拟机，大大提升了对应性能，以及用户体验。</p>
+<img src="/2017/04/14/mac-osx-vm-1/docker-for-mac-and-toolbox.png" alt="Docker for Mac 和 Docker toolbox" title="Docker for Mac 和 Docker toolbox">
+<p><a href="https://docs.docker.com/docker-for-mac/" target="_blank" rel="external">https://docs.docker.com/docker-for-mac/</a><br><a href="https://docs.docker.com/docker-for-mac/docker-toolbox/" target="_blank" rel="external">https://docs.docker.com/docker-for-mac/docker-toolbox/</a><br>中文版本的：<br><a href="http://www.jianshu.com/p/893ff201d017" target="_blank" rel="external">http://www.jianshu.com/p/893ff201d017</a><br><a href="http://www.jianshu.com/p/ab6f8be85470" target="_blank" rel="external">http://www.jianshu.com/p/ab6f8be85470</a></p>
+<p>网络功能：<br><a href="http://www.jianshu.com/p/b0e1f8af7ec2" target="_blank" rel="external">http://www.jianshu.com/p/b0e1f8af7ec2</a></p>
+<p>安装加速器：<br><a href="http://www.jianshu.com/p/b80a47d64d75" target="_blank" rel="external">http://www.jianshu.com/p/b80a47d64d75</a></p>
+<p>使用体验：<br><a href="https://ipfans.github.io/2016/04/docker-for-mac-beta/" target="_blank" rel="external">https://ipfans.github.io/2016/04/docker-for-mac-beta/</a></p>
+<p>Docker开源组件：HyperKit、VPNKit和DataKit介绍<br><a href="http://dockone.io/article/1329" target="_blank" rel="external">http://dockone.io/article/1329</a></p>
+<p><em>说明：</em> Docker for Mac确实比以前好用多了，本人体验后，还是发现一些问题：对应镜像大小增长比较快，而且当前社区没有解决这个bug，需要自己手工的处理。另外就是在docker上安装操作系统内核无法升级，毕竟是Docker。但是Docker的优势是部署和运行方便，这个也是Docker当前最大的发展方向，作为未来软件发布的主要渠道，他完美的解决了软件依赖和部署的问题。</p>
+<p>镜像大小问题的一些解决方法参考：<br><a href="https://forums.docker.com/t/consistently-out-of-disk-space-in-docker-beta/9438/9" target="_blank" rel="external">https://forums.docker.com/t/consistently-out-of-disk-space-in-docker-beta/9438/9</a></p>
+<h2 id="参考连接"><a href="#参考连接" class="headerlink" title="参考连接"></a>参考连接</h2><p><a href="http://www.jianshu.com/p/f0f50d471312" target="_blank" rel="external">http://www.jianshu.com/p/f0f50d471312</a><br><a href="https://veertu.com/uncovering-os-x-hypervisor-framework/" target="_blank" rel="external">https://veertu.com/uncovering-os-x-hypervisor-framework/</a></p>
 ]]></content>
       
         <categories>

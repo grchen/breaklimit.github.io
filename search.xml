@@ -3,6 +3,107 @@
   
     
     <entry>
+      <title><![CDATA[编辑神器：Atom，SublimeText，VsCode]]></title>
+      <url>/2017/04/15/editor/</url>
+      <content type="html"><![CDATA[<h3 id="Atom"><a href="#Atom" class="headerlink" title="Atom"></a>Atom</h3><img src="/2017/04/15/editor/atom.png" alt="atom" title="atom">
+<p><a href="https://atom.io/" target="_blank" rel="external">https://atom.io/</a></p>
+<h4 id="Atom-介绍和使用方法（好用的文本编辑器，代码提示高亮、Markdown）"><a href="#Atom-介绍和使用方法（好用的文本编辑器，代码提示高亮、Markdown）" class="headerlink" title="Atom - 介绍和使用方法（好用的文本编辑器，代码提示高亮、Markdown）"></a>Atom - 介绍和使用方法（好用的文本编辑器，代码提示高亮、Markdown）</h4><p><a href="http://www.hangge.com/blog/cache/detail_1149.html" target="_blank" rel="external">http://www.hangge.com/blog/cache/detail_1149.html</a></p>
+<h3 id="Vscode"><a href="#Vscode" class="headerlink" title="Vscode"></a>Vscode</h3><img src="/2017/04/15/editor/vscode.png" alt="atom" title="atom">
+<p><a href="https://code.visualstudio.com/" target="_blank" rel="external">https://code.visualstudio.com/</a></p>
+<h4 id="VS-Code初体验"><a href="#VS-Code初体验" class="headerlink" title="VS Code初体验"></a>VS Code初体验</h4><p><a href="https://segmentfault.com/a/1190000006509116" target="_blank" rel="external">https://segmentfault.com/a/1190000006509116</a></p>
+<h3 id="SublimeText"><a href="#SublimeText" class="headerlink" title="SublimeText"></a>SublimeText</h3><img src="/2017/04/15/editor/sublime.png" alt="atom" title="atom">
+<p><a href="https://www.sublimetext.com/3" target="_blank" rel="external">https://www.sublimetext.com/3</a></p>
+<h4 id="SublimeText-3介绍和插件"><a href="#SublimeText-3介绍和插件" class="headerlink" title="SublimeText 3介绍和插件"></a>SublimeText 3介绍和插件</h4><p><a href="http://qiudeqing.com/tools/2015/05/31/sublime-text-3.html" target="_blank" rel="external">http://qiudeqing.com/tools/2015/05/31/sublime-text-3.html</a></p>
+<h3 id="Atom、Sublime-Text、VSCode-三者比较"><a href="#Atom、Sublime-Text、VSCode-三者比较" class="headerlink" title="Atom、Sublime Text、VSCode 三者比较"></a>Atom、Sublime Text、VSCode 三者比较</h3><p><a href="https://www.zhihu.com/question/41857899" target="_blank" rel="external">https://www.zhihu.com/question/41857899</a></p>
+<h3 id="个人使用体验"><a href="#个人使用体验" class="headerlink" title="个人使用体验"></a>个人使用体验</h3><ol>
+<li>Atom和VSCode都是同一个框架上开发的，VSCode的性能比Atom好，能打开超大文件，但是Atom的插件比VScode的多，Vscode的界面没有Atom好看。</li>
+<li>Sublime可以打开和编辑二进制文件，另外两个不行。</li>
+<li>Vscode的调试功能比较强大，这个比其他两个好。</li>
+<li>所以要用python，C／C++等调试代码的，使用vscode，其他情况下使用Atom。Sublime需要收费，但是功能还是不错的。</li>
+<li>Atom有个Remote FTP插件，可以在window上或者Mac上直接连接到远端linux上机器进行文本编辑，然后使用console连接到远端服务器直接编译和运行代码，非常方便，sublime和Vscode暂时做不到。</li>
+<li>直接连接到远端服务器上工作的，还可以考虑用zsh+tmux+vim（或者emacs），功能也非常强大。基本上可以提单Atom了（参考另外一篇博客的资源）</li>
+</ol>
+]]></content>
+      
+        <categories>
+            
+            <category> 备忘录 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 编辑器 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[终端神器：zsh，tmux和vim]]></title>
+      <url>/2017/04/15/zsh-tmux-vim-rsource/</url>
+      <content type="html"><![CDATA[<h3 id="Oh-My-Zsh"><a href="#Oh-My-Zsh" class="headerlink" title="Oh My Zsh"></a>Oh My Zsh</h3><p><a href="http://ohmyz.sh/" target="_blank" rel="external">http://ohmyz.sh/</a><br><a href="http://yijiebuyi.com/blog/b9b5e1ebb719f22475c38c4819ab8151.html" target="_blank" rel="external">http://yijiebuyi.com/blog/b9b5e1ebb719f22475c38c4819ab8151.html</a><br>插件：<a href="http://www.jianshu.com/p/9189eac3e52d" target="_blank" rel="external">http://www.jianshu.com/p/9189eac3e52d</a><br><a href="https://www.zhihu.com/question/21418449" target="_blank" rel="external">https://www.zhihu.com/question/21418449</a><br><a href="https://senpng.github.io/2015/12/03/zsh/" target="_blank" rel="external">https://senpng.github.io/2015/12/03/zsh/</a></p>
+<h3 id="Oh-My-Tmux"><a href="#Oh-My-Tmux" class="headerlink" title="Oh My Tmux"></a>Oh My Tmux</h3><p><a href="https://github.com/gpakosz/.tmux" target="_blank" rel="external">https://github.com/gpakosz/.tmux</a></p>
+<h3 id="tmux-Productive-Mouse-Free-Development-中文版"><a href="#tmux-Productive-Mouse-Free-Development-中文版" class="headerlink" title="tmux: Productive Mouse-Free Development 中文版"></a>tmux: Productive Mouse-Free Development 中文版</h3><p><a href="https://www.kancloud.cn/kancloud/tmux/62461" target="_blank" rel="external">https://www.kancloud.cn/kancloud/tmux/62461</a></p>
+<h3 id="Tmux-Linux从业者必备利器"><a href="#Tmux-Linux从业者必备利器" class="headerlink" title="Tmux - Linux从业者必备利器"></a>Tmux - Linux从业者必备利器</h3><p><a href="http://cenalulu.github.io/linux/tmux/" target="_blank" rel="external">http://cenalulu.github.io/linux/tmux/</a></p>
+<h3 id="Byobu：TMUX集成工具"><a href="#Byobu：TMUX集成工具" class="headerlink" title="Byobu：TMUX集成工具"></a>Byobu：TMUX集成工具</h3><p><a href="https://imtx.me/archives/1693.html" target="_blank" rel="external">https://imtx.me/archives/1693.html</a><br><a href="https://www.howtoing.com/how-to-install-and-use-byobu-for-terminal-management-on-ubuntu-16-04/" target="_blank" rel="external">https://www.howtoing.com/how-to-install-and-use-byobu-for-terminal-management-on-ubuntu-16-04/</a></p>
+<h3 id="SpaceVim"><a href="#SpaceVim" class="headerlink" title="SpaceVim"></a>SpaceVim</h3><p><a href="https://github.com/SpaceVim/SpaceVim" target="_blank" rel="external">https://github.com/SpaceVim/SpaceVim</a><br><a href="http://www.jianshu.com/p/6bf206d68163" target="_blank" rel="external">http://www.jianshu.com/p/6bf206d68163</a><br>中文版：<a href="https://github.com/liuchengxu/space-vim" target="_blank" rel="external">https://github.com/liuchengxu/space-vim</a></p>
+<h3 id="Vim使用教程"><a href="#Vim使用教程" class="headerlink" title="Vim使用教程"></a>Vim使用教程</h3><p><a href="http://www.jianshu.com/p/946fafb0ec63" target="_blank" rel="external">http://www.jianshu.com/p/946fafb0ec63</a></p>
+<h3 id="简明-VIM-练级攻略"><a href="#简明-VIM-练级攻略" class="headerlink" title="简明 VIM 练级攻略"></a>简明 VIM 练级攻略</h3><p><a href="http://coolshell.cn/articles/5426.html" target="_blank" rel="external">http://coolshell.cn/articles/5426.html</a></p>
+<h3 id="vim-galore-中文翻译"><a href="#vim-galore-中文翻译" class="headerlink" title="vim-galore 中文翻译"></a>vim-galore 中文翻译</h3><p><a href="https://github.com/wsdjeg/vim-galore-zh_cn" target="_blank" rel="external">https://github.com/wsdjeg/vim-galore-zh_cn</a></p>
+<h3 id="如何用Vim搭建IDE？"><a href="#如何用Vim搭建IDE？" class="headerlink" title="如何用Vim搭建IDE？"></a>如何用Vim搭建IDE？</h3><p><a href="http://harttle.com/2015/11/04/vim-ide.html" target="_blank" rel="external">http://harttle.com/2015/11/04/vim-ide.html</a></p>
+<h3 id="VIM-cheatsheet"><a href="#VIM-cheatsheet" class="headerlink" title="VIM cheatsheet"></a>VIM cheatsheet</h3><p><a href="https://rumorscity.com/2014/08/16/5-best-vim-cheat-sheet/" target="_blank" rel="external">https://rumorscity.com/2014/08/16/5-best-vim-cheat-sheet/</a></p>
+<h3 id="vi-vim使用进阶"><a href="#vi-vim使用进阶" class="headerlink" title="vi/vim使用进阶"></a>vi/vim使用进阶</h3><p><a href="http://easwy.com/blog/archives/advanced-vim-skills-catalog/" target="_blank" rel="external">http://easwy.com/blog/archives/advanced-vim-skills-catalog/</a></p>
+<h3 id="spacemacs"><a href="#spacemacs" class="headerlink" title="spacemacs"></a>spacemacs</h3><p><a href="https://github.com/syl20bnr/spacemacs" target="_blank" rel="external">https://github.com/syl20bnr/spacemacs</a></p>
+<h3 id="使用spacemacs从vim无缝过度到emacs"><a href="#使用spacemacs从vim无缝过度到emacs" class="headerlink" title="使用spacemacs从vim无缝过度到emacs"></a>使用spacemacs从vim无缝过度到emacs</h3><p><a href="http://hackerxu.com/2015/08/31/spacemacs.html" target="_blank" rel="external">http://hackerxu.com/2015/08/31/spacemacs.html</a></p>
+<h3 id="Spacemacs-使用总结"><a href="#Spacemacs-使用总结" class="headerlink" title="Spacemacs 使用总结"></a>Spacemacs 使用总结</h3><p><a href="https://scarletsky.github.io/2016/01/22/spacemacs-usage/" target="_blank" rel="external">https://scarletsky.github.io/2016/01/22/spacemacs-usage/</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 备忘录 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Shell </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[GitHub相关资源]]></title>
+      <url>/2017/04/15/github-resource/</url>
+      <content type="html"><![CDATA[<h3 id="如何在本地环境配置github"><a href="#如何在本地环境配置github" class="headerlink" title="如何在本地环境配置github"></a>如何在本地环境配置github</h3><p><a href="https://segmentfault.com/a/1190000002533334" target="_blank" rel="external">https://segmentfault.com/a/1190000002533334</a></p>
+<h3 id="Github·Gist使用攻略"><a href="#Github·Gist使用攻略" class="headerlink" title="Github·Gist使用攻略"></a>Github·Gist使用攻略</h3><p><a href="http://ruikye.com/2014/08/30/github-gist/" target="_blank" rel="external">http://ruikye.com/2014/08/30/github-gist/</a></p>
+<h3 id="git-设置和取消代理"><a href="#git-设置和取消代理" class="headerlink" title="git 设置和取消代理"></a>git 设置和取消代理</h3><p><a href="https://gist.github.com/laispace/666dd7b27e9116faece6" target="_blank" rel="external">https://gist.github.com/laispace/666dd7b27e9116faece6</a></p>
+<h3 id="GitHub-Pages-静态博客-个人建站实录"><a href="#GitHub-Pages-静态博客-个人建站实录" class="headerlink" title="GitHub Pages 静态博客 - 个人建站实录"></a>GitHub Pages 静态博客 - 个人建站实录</h3><p><a href="http://alfred-sun.github.io/blog/2014/12/05/github-pages/" target="_blank" rel="external">http://alfred-sun.github.io/blog/2014/12/05/github-pages/</a></p>
+<h3 id="如何简单入门使用Travis-CI持续集成"><a href="#如何简单入门使用Travis-CI持续集成" class="headerlink" title="如何简单入门使用Travis-CI持续集成"></a>如何简单入门使用Travis-CI持续集成</h3><p><a href="https://github.com/nukc/how-to-use-travis-ci" target="_blank" rel="external">https://github.com/nukc/how-to-use-travis-ci</a></p>
+<h3 id="常用-Git-命令清单"><a href="#常用-Git-命令清单" class="headerlink" title="常用 Git 命令清单"></a>常用 Git 命令清单</h3><p><a href="http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html" target="_blank" rel="external">http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html</a><br><a href="https://gist.github.com/guweigang/9848271#file-git_toturial" target="_blank" rel="external">https://gist.github.com/guweigang/9848271#file-git_toturial</a></p>
+<h3 id="你需要知道的12个Git高级命令"><a href="#你需要知道的12个Git高级命令" class="headerlink" title="你需要知道的12个Git高级命令"></a>你需要知道的12个Git高级命令</h3><p><a href="http://www.infoq.com/cn/news/2016/01/12-git-advanced-commands" target="_blank" rel="external">http://www.infoq.com/cn/news/2016/01/12-git-advanced-commands</a></p>
+<h3 id="gist-writing"><a href="#gist-writing" class="headerlink" title="gist writing"></a>gist writing</h3><p><a href="http://www.roughdraft.io/" target="_blank" rel="external">http://www.roughdraft.io/</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 备忘录 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[李小龙资源收集]]></title>
       <url>/2017/04/15/bruce-lee-resource/</url>
       <content type="html"><![CDATA[<h2 id="李小龙生平简介"><a href="#李小龙生平简介" class="headerlink" title="李小龙生平简介"></a>李小龙生平简介</h2><p>　　<a href="https://zh.wikipedia.org/wiki/李小龙" title="李小龙" target="_blank" rel="external">https://zh.wikipedia.org/wiki/李小龙</a><br>　　<a href="http://people.mtime.com/892891/" target="_blank" rel="external">http://people.mtime.com/892891/</a><br>　　李小龙<br>　　生卒年：1940年-1973年  </p>
@@ -153,15 +254,16 @@
       <title><![CDATA[Hexo和markdown相关内容收集]]></title>
       <url>/2017/04/14/hexo-blog-write/</url>
       <content type="html"><![CDATA[<p>为了遗忘和查询，收集一些markdown和hexo相关的连接地址，方便查询和浏览。</p>
-<h3 id="Hexo-Markdown-简明语法手册"><a href="#Hexo-Markdown-简明语法手册" class="headerlink" title="Hexo Markdown 简明语法手册"></a>Hexo Markdown 简明语法手册</h3>
-<p><a href="https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C/" title="Hexo Markdown 简明语法手册" target="_blank" rel="external">https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-简明语法手册/</a></p>
-<h3 id="Markdown-简单的世界"><a href="#Markdown-简单的世界" class="headerlink" title="Markdown - 简单的世界"></a>Markdown - 简单的世界</h3><p> <a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" title="Markdown - 简单的世界" target="_blank" rel="external">https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details</a></p>
+<h3 id="Hexo-Markdown-简明语法手册"><a href="#Hexo-Markdown-简明语法手册" class="headerlink" title="Hexo Markdown 简明语法手册"></a>Hexo Markdown 简明语法手册</h3><p><a href="https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C/" title="Hexo Markdown 简明语法手册" target="_blank" rel="external">https://hyxxsfwy.github.io/2016/01/15/Hexo-Markdown-简明语法手册/</a></p>
+<h3 id="Markdown-简单的世界"><a href="#Markdown-简单的世界" class="headerlink" title="Markdown - 简单的世界"></a>Markdown - 简单的世界</h3><p><a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" title="Markdown - 简单的世界" target="_blank" rel="external">https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details</a></p>
 <h3 id="Hexo中文文档和API"><a href="#Hexo中文文档和API" class="headerlink" title="Hexo中文文档和API"></a>Hexo中文文档和API</h3><p><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">https://hexo.io/zh-cn/docs/</a></p>
 <h3 id="关于-Hexo-的若干问题"><a href="#关于-Hexo-的若干问题" class="headerlink" title="关于 Hexo 的若干问题"></a>关于 Hexo 的若干问题</h3><p><a href="http://bubkoo.com/2013/12/16/hexo-issure/" target="_blank" rel="external">http://bubkoo.com/2013/12/16/hexo-issure/</a></p>
 <h3 id="Hexo的Maupassant主题"><a href="#Hexo的Maupassant主题" class="headerlink" title="Hexo的Maupassant主题"></a>Hexo的Maupassant主题</h3><p><a href="https://www.haomwei.com/technology/maupassant-hexo.html" target="_blank" rel="external">https://www.haomwei.com/technology/maupassant-hexo.html</a></p>
 <h3 id="hexo高级用法"><a href="#hexo高级用法" class="headerlink" title="hexo高级用法"></a>hexo高级用法</h3><p><a href="http://suibobuzhuliu.github.io/2016/05/22/hexo高级用法/" target="_blank" rel="external">http://suibobuzhuliu.github.io/2016/05/22/hexo高级用法/</a></p>
 <h3 id="Hexo插件安装"><a href="#Hexo插件安装" class="headerlink" title="Hexo插件安装"></a>Hexo插件安装</h3><p><a href="https://luuman.github.io/2015/12/27/Hexo/HexoPlug/" target="_blank" rel="external">https://luuman.github.io/2015/12/27/Hexo/HexoPlug/</a></p>
 <h3 id="Jade中文教程"><a href="#Jade中文教程" class="headerlink" title="Jade中文教程"></a>Jade中文教程</h3><p><a href="http://blog.jayself.com/2014/07/28/Jade/" target="_blank" rel="external">http://blog.jayself.com/2014/07/28/Jade/</a></p>
+<h3 id="用Travis-CI自动部署Hexo博客"><a href="#用Travis-CI自动部署Hexo博客" class="headerlink" title="用Travis CI自动部署Hexo博客"></a>用Travis CI自动部署Hexo博客</h3><p><a href="https://www.karlzhou.com/2016/05/28/travis-ci-deploy-blog/" target="_blank" rel="external">https://www.karlzhou.com/2016/05/28/travis-ci-deploy-blog/</a></p>
+<h3 id="搭建Hexo博客进阶篇–Hexo文档讲解"><a href="#搭建Hexo博客进阶篇–Hexo文档讲解" class="headerlink" title="搭建Hexo博客进阶篇–Hexo文档讲解"></a>搭建Hexo博客进阶篇–Hexo文档讲解</h3><p><a href="http://smallant.top/2017/02/20/HexoBlog2/" target="_blank" rel="external">http://smallant.top/2017/02/20/HexoBlog2/</a></p>
 ]]></content>
       
         <categories>

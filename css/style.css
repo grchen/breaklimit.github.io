@@ -467,8 +467,10 @@ pre {
   top: 10px; }
 
 #process .timeline-centered {
+  padding: 10px 0;
   position: relative;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  margin-right: 30px; }
 
 #process .timeline-centered:before, #process .timeline-centered:after,
 #process .timeline-centered:before, #process .timeline-centered:after {

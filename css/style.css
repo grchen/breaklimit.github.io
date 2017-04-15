@@ -25,12 +25,12 @@ body {
   font-size: 14px; }
 
 .body_container {
-  padding: 0 60px;
+  padding: 0 30px;
   max-width: 1150px;
   margin: 0 auto; }
 
 .content_container {
-  padding-right: 50px;
+  padding-right: 25px;
   padding-top: 20px; }
 
 a, button.submit {
@@ -54,12 +54,12 @@ div {
   box-sizing: border-box; }
 
 #header {
-  padding: 58px 0 0;
+  padding: 20px 0 0;
   text-align: left;
   border-bottom: 1px solid #ddd;
   position: relative; }
   #header .site-name {
-    margin-bottom: 40px; }
+    margin-bottom: 5px; }
     #header .site-name h1 {
       padding: 0;
       margin: 0;
@@ -94,7 +94,7 @@ div {
 
 #sidebar {
   border-left: 1px solid #ddd;
-  padding-left: 35px;
+  padding-left: 25px;
   margin-top: 40px;
   padding-bottom: 20px;
   word-wrap: break-word; }
